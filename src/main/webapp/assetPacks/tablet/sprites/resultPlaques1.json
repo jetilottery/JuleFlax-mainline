@@ -1,0 +1,85 @@
+{"frames": {
+
+"bigWinSparkles/bigWinParticles01":
+{
+	"frame": {"x":1451,"y":849,"w":56,"h":56},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":361,"y":373,"w":56,"h":56},
+	"sourceSize": {"w":783,"h":783}
+},
+"bigWinSparkles/bigWinParticles02":
+{
+	"frame": {"x":1451,"y":744,"w":103,"h":103},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":338,"y":349,"w":103,"h":103},
+	"sourceSize": {"w":783,"h":783}
+},
+"bigWinSparkles/bigWinParticles14":
+{
+	"frame": {"x":1063,"y":1408,"w":491,"h":490},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":153,"y":146,"w":491,"h":490},
+	"sourceSize": {"w":783,"h":783}
+},
+"bigWinSparkles/bigWinParticles15":
+{
+	"frame": {"x":544,"y":1408,"w":513,"h":517},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":142,"y":133,"w":513,"h":517},
+	"sourceSize": {"w":783,"h":783}
+},
+"bigWinSparkles/bigWinParticles16":
+{
+	"frame": {"x":1,"y":1382,"w":533,"h":541},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":132,"y":122,"w":533,"h":541},
+	"sourceSize": {"w":783,"h":783}
+},
+"bigWinSparkles/bigWinParticles20":
+{
+	"frame": {"x":1,"y":763,"w":617,"h":632},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":89,"y":78,"w":617,"h":632},
+	"sourceSize": {"w":783,"h":783}
+},
+"bigWinSparkles/bigWinParticles22":
+{
+	"frame": {"x":771,"y":744,"w":662,"h":678},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":67,"y":52,"w":662,"h":678},
+	"sourceSize": {"w":783,"h":783}
+},
+"bigWinSparkles/bigWinParticles26":
+{
+	"frame": {"x":771,"y":1,"w":741,"h":757},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":26,"y":15,"w":741,"h":757},
+	"sourceSize": {"w":783,"h":783}
+},
+"bigWinSparkles/bigWinParticles29":
+{
+	"frame": {"x":1,"y":1,"w":760,"h":768},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":12,"y":9,"w":760,"h":768},
+	"sourceSize": {"w":783,"h":783}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "resultPlaques1.png",
+	"format": "RGBA8888",
+	"size": {"w":1555,"h":1922},
+	"scale": "1",
+	"related_multi_packs": [ "resultPlaques0.json", "resultPlaques2.json" ],
+	"smartupdate": "$TexturePacker:SmartUpdate:a5905c7a506f118c8e34d4ad225a93ca:810d6b5a0c9e73d06826366d1271a649:0d7fed52e79378e07f84b1a47298969f$"
+}
+}

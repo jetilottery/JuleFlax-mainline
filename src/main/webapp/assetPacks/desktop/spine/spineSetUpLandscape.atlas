@@ -1,0 +1,230 @@
+
+spineSetUpLandscape.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cablesLandscape
+  rotate: false
+  xy: 2, 1477
+  size: 1326, 467
+  orig: 1326, 467
+  offset: 0, 0
+  index: -1
+drag_00001
+  rotate: true
+  xy: 2, 855
+  size: 620, 100
+  orig: 620, 100
+  offset: 0, 0
+  index: -1
+drag_00002
+  rotate: false
+  xy: 294, 1375
+  size: 620, 100
+  orig: 620, 100
+  offset: 0, 0
+  index: -1
+drag_00003
+  rotate: false
+  xy: 496, 1273
+  size: 620, 100
+  orig: 620, 100
+  offset: 0, 0
+  index: -1
+drag_00004
+  rotate: false
+  xy: 201, 998
+  size: 620, 100
+  orig: 620, 100
+  offset: 0, 0
+  index: -1
+drag_00005
+  rotate: false
+  xy: 540, 1171
+  size: 620, 100
+  orig: 620, 100
+  offset: 0, 0
+  index: -1
+drag_00006
+  rotate: false
+  xy: 177, 896
+  size: 620, 100
+  orig: 620, 100
+  offset: 0, 0
+  index: -1
+drag_00007
+  rotate: true
+  xy: 799, 376
+  size: 620, 100
+  orig: 620, 100
+  offset: 0, 0
+  index: -1
+drag_00008
+  rotate: true
+  xy: 419, 274
+  size: 620, 100
+  orig: 620, 100
+  offset: 0, 0
+  index: -1
+drag_00009
+  rotate: true
+  xy: 521, 274
+  size: 620, 100
+  orig: 620, 100
+  offset: 0, 0
+  index: -1
+drag_00010
+  rotate: true
+  xy: 623, 274
+  size: 620, 100
+  orig: 620, 100
+  offset: 0, 0
+  index: -1
+drag_00011
+  rotate: false
+  xy: 901, 522
+  size: 620, 100
+  orig: 620, 100
+  offset: 0, 0
+  index: -1
+drag_00012
+  rotate: true
+  xy: 1162, 779
+  size: 620, 100
+  orig: 620, 100
+  offset: 0, 0
+  index: -1
+drag_00013
+  rotate: true
+  xy: 1523, 2
+  size: 620, 100
+  orig: 620, 100
+  offset: 0, 0
+  index: -1
+drag_00014
+  rotate: true
+  xy: 1625, 2
+  size: 620, 100
+  orig: 620, 100
+  offset: 0, 0
+  index: -1
+drag_00015
+  rotate: false
+  xy: 725, 274
+  size: 620, 100
+  orig: 620, 100
+  offset: 0, 0
+  index: -1
+drag_00016
+  rotate: false
+  xy: 901, 420
+  size: 620, 100
+  orig: 620, 100
+  offset: 0, 0
+  index: -1
+drag_00017
+  rotate: true
+  xy: 1698, 1324
+  size: 620, 100
+  orig: 620, 100
+  offset: 0, 0
+  index: -1
+drag_00018
+  rotate: true
+  xy: 1698, 702
+  size: 620, 100
+  orig: 620, 100
+  offset: 0, 0
+  index: -1
+drag_00019
+  rotate: true
+  xy: 1727, 80
+  size: 620, 100
+  orig: 620, 100
+  offset: 0, 0
+  index: -1
+gnome1
+  rotate: true
+  xy: 265, 1100
+  size: 126, 273
+  orig: 126, 273
+  offset: 0, 0
+  index: -1
+gnome1Hands
+  rotate: false
+  xy: 104, 1047
+  size: 95, 124
+  orig: 95, 124
+  offset: 0, 0
+  index: -1
+gnome1Nose
+  rotate: true
+  xy: 236, 1211
+  size: 36, 27
+  orig: 36, 27
+  offset: 0, 0
+  index: -1
+gnome2Body
+  rotate: false
+  xy: 916, 1393
+  size: 199, 82
+  orig: 199, 82
+  offset: 0, 0
+  index: -1
+gnome2Head
+  rotate: true
+  xy: 104, 1305
+  size: 170, 188
+  orig: 170, 188
+  offset: 0, 0
+  index: -1
+gnome2Nose
+  rotate: true
+  xy: 236, 1249
+  size: 54, 34
+  orig: 54, 34
+  offset: 0, 0
+  index: -1
+liftArm
+  rotate: true
+  xy: 2, 503
+  size: 350, 415
+  orig: 350, 415
+  offset: 0, 0
+  index: -1
+santaRearLeg
+  rotate: true
+  xy: 104, 964
+  size: 81, 71
+  orig: 81, 71
+  offset: 0, 0
+  index: -1
+santaSliding
+  rotate: false
+  xy: 294, 1228
+  size: 200, 145
+  orig: 200, 145
+  offset: 0, 0
+  index: -1
+starSparkle
+  rotate: false
+  xy: 1117, 1401
+  size: 74, 74
+  orig: 74, 74
+  offset: 0, 0
+  index: -1
+treeBase
+  rotate: false
+  xy: 1330, 624
+  size: 366, 1320
+  orig: 366, 1320
+  offset: 0, 0
+  index: -1
+treeSparkle
+  rotate: false
+  xy: 104, 1173
+  size: 130, 130
+  orig: 130, 130
+  offset: 0, 0
+  index: -1

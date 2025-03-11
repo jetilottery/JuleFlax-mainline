@@ -1,0 +1,153 @@
+
+BigWinPopUp.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Du vant
+  rotate: false
+  xy: 798, 248
+  size: 313, 85
+  orig: 313, 85
+  offset: 0, 0
+  index: -1
+Gratulerer!
+  rotate: false
+  xy: 2, 62
+  size: 772, 161
+  orig: 772, 161
+  offset: 0, 0
+  index: -1
+gnome2Body
+  rotate: false
+  xy: 1113, 249
+  size: 201, 84
+  orig: 201, 84
+  offset: 0, 0
+  index: -1
+gnome2Hat
+  rotate: true
+  xy: 1199, 715
+  size: 133, 115
+  orig: 133, 115
+  offset: 0, 0
+  index: -1
+gnome2Head
+  rotate: true
+  xy: 1199, 850
+  size: 172, 95
+  orig: 172, 95
+  offset: 0, 0
+  index: -1
+gnome2Nose
+  rotate: true
+  xy: 147, 6
+  size: 54, 34
+  orig: 54, 34
+  offset: 0, 0
+  index: -1
+santaBeard
+  rotate: true
+  xy: 1271, 76
+  size: 171, 106
+  orig: 171, 106
+  offset: 0, 0
+  index: -1
+santaBody
+  rotate: true
+  xy: 776, 17
+  size: 206, 246
+  orig: 206, 246
+  offset: 0, 0
+  index: -1
+santaEyeBrows
+  rotate: false
+  xy: 183, 34
+  size: 67, 26
+  orig: 67, 26
+  offset: 0, 0
+  index: -1
+santaFace
+  rotate: false
+  xy: 2, 2
+  size: 89, 58
+  orig: 89, 58
+  offset: 0, 0
+  index: -1
+santaForeArm
+  rotate: false
+  xy: 1199, 574
+  size: 110, 139
+  orig: 110, 139
+  offset: 0, 0
+  index: -1
+santaHat
+  rotate: false
+  xy: 1296, 939
+  size: 176, 83
+  orig: 176, 83
+  offset: 0, 0
+  index: -1
+santaNose
+  rotate: false
+  xy: 183, 2
+  size: 46, 30
+  orig: 46, 30
+  offset: 0, 0
+  index: -1
+santaRearArm
+  rotate: true
+  xy: 1156, 75
+  size: 172, 113
+  orig: 172, 113
+  offset: 0, 0
+  index: -1
+santaRearLeg
+  rotate: false
+  xy: 1250, 435
+  size: 94, 137
+  orig: 94, 137
+  offset: 0, 0
+  index: -1
+starSparkle
+  rotate: false
+  xy: 93, 7
+  size: 52, 53
+  orig: 52, 53
+  offset: 0, 0
+  index: -1
+toysack
+  rotate: true
+  xy: 798, 562
+  size: 460, 399
+  orig: 460, 399
+  offset: 0, 0
+  index: -1
+tree
+  rotate: true
+  xy: 798, 335
+  size: 225, 450
+  orig: 225, 450
+  offset: 0, 0
+  index: -1
+tree shadow
+  rotate: true
+  xy: 1024, 28
+  size: 218, 130
+  orig: 218, 130
+  offset: 0, 0
+  index: -1
+treeSparckle01
+  rotate: false
+  xy: 1156, 12
+  size: 61, 61
+  orig: 61, 61
+  offset: 0, 0
+  index: -1
+winDiamond
+  rotate: false
+  xy: 2, 225
+  size: 794, 797
+  orig: 794, 797
+  offset: 0, 0
+  index: -1

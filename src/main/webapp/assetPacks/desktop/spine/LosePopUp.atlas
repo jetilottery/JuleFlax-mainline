@@ -1,0 +1,27 @@
+
+LosePopUp.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Beklager
+  rotate: true
+  xy: 798, 333
+  size: 602, 126
+  orig: 602, 126
+  offset: 0, 0
+  index: -1
+Du vant ikke denne gangen
+  rotate: false
+  xy: 2, 2
+  size: 419, 134
+  orig: 419, 134
+  offset: 0, 0
+  index: -1
+loseDiamond
+  rotate: false
+  xy: 2, 138
+  size: 794, 797
+  orig: 794, 797
+  offset: 0, 0
+  index: -1
